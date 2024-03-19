@@ -1,8 +1,8 @@
 +++
 title = 'My First Post'
 date = 2024-03-15T14:56:07-07:00
-draft = true
+draft = false
 +++
-## Some content
+## Primer post
 
-Trying Hugo for static site generation.
+Acá probando el blog, testeando como funciona Hugo.

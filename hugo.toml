@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://site.juanetoh.tv/'
+languageCode = 'es-cl'
+defaultContentLanguage = 'es'
+title = 'Blog Juaneto'
 theme = 'ananke'
