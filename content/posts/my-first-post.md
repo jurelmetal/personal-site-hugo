@@ -6,3 +6,7 @@ draft = false
 ## Primer post
 
 Acá probando el blog, testeando como funciona Hugo.
+
+Prueba de imagen:
+
+![Ensalada](/ensalada.webp)
